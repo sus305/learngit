@@ -1,6 +1,6 @@
 Git is a version control system.
 Git is free software.
-
+Git has a mutable index called stage.第三次修改，第四版
 
 新加一个文件
 
